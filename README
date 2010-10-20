@@ -1,0 +1,12 @@
+Rhalostats
+============
+This plugin was made for myself to be used with my own Halo 3 Players
+Facebook application. It's used to scrape and store data from bungie.net
+about a gamertag's Halo 3 stats.
+
+I haven't done any extra work to make it simple for an end user to pick 
+up and plug in to their Rails application so use at your own risk. I may
+get around to improving end-user usability in the future.
+
+------------------------------------------------------------------
+Copyright (c) 2007 Steve Ehrenberg, released under the MIT license
